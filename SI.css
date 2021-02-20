@@ -27,7 +27,7 @@ h3{
     text-align: left;
     border-radius: 6px;
     border: 2px solid rgb(10 19 61);
-    font-size: 20px;
+    font-size: 3vmin;
     font-style: italic;
     height: 30px;
     width: 70%;
@@ -36,17 +36,17 @@ h3{
 #reset{
     margin-left: 55%;
     background-color: rgb(66, 117, 119);
+    text-align: center;
+    border-color: #0c0a0a;
+    box-shadow: 1px 1px #131214, 1px 1px #0c0806, 2px 2px rgb(5 15 31);
 }
 #submit{
     background-color: rgb(18, 182, 223);
+    text-align: center;
+    border-color: #0c0a0a;
+    box-shadow: 1px 1px #131214, 1px 1px #0c0806, 2px 2px rgb(5 15 31);
 }
-#reset,#submit{
-     text-align: center;
-     width: 8%;
-     height: 30px;
-     border-color: #0c0a0a;
-     box-shadow: 1px 1px #131214, 1px 1px #0c0806, 2px 2px rgb(5 15 31);
-}
+  
 #simpleInterest{
     font-size: 35px;
     text-shadow: 1px 1px  rgb(19, 16, 19);
