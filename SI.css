@@ -5,32 +5,33 @@ h1{
     text-shadow: 1px 2px  rgb(19, 16, 19);
     text-decoration: underline;
     text-align: center;
-    margin-top: 1px;
-    font-size: 50px;
+    margin-top: -1vh;
+    font-size: 10vmin;
     color: rgb(1, 1, 73);
 }
 h3{
     text-shadow: 1px 1px rgb(9, 9, 110);
     text-decoration: underline;
-    margin-left: 40%;
-    margin-top: 1px;
+    margin-left: 38vw;
+    margin-top: -3vh;
     font-size: 40px;
     color: rgb(9, 9, 110);
 }
 .Calculation{
     font-size: 25px;
     font-weight:bold;
-    margin-left: 20%;
-    margin-top: 5px;
+    margin-left: 25vw;
+    margin-top: 0.5vh;
 }
 #p,#r,#t{
     text-align: left;
+    -ms-text-size-adjust:auto;
     border-radius: 6px;
     border: 2px solid rgb(10 19 61);
     font-size: 3vmin;
     font-style: italic;
     height: 30px;
-    width: 70%;
+    width: 50vw;
     box-shadow: 1px 1px #201727, 2px 2px #494848, 4px 4px rgb(10 19 61);
 }
 #reset{
